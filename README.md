@@ -40,7 +40,7 @@ Replace the placeholder values with your actual API keys and tokens.
 
 To run the AI Image Bot, use the following command:
 ```sh
-python ai_image_bot.py
+python main.py
 ```
 
 ## Commands
